@@ -1,6 +1,6 @@
 # semi-supervised
 
-study aboyt semi-supervised learning in UNLN SAIL lab
+A study about semi-supervised learning in UNLV SAIL lab
 
 dataset:
 
